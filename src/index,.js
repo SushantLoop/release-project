@@ -1,2 +1,6 @@
-console.log("Hello world");
-console.log("Change");
+function xyz () {
+    console.log("Hello world");
+    console.log("Change");
+}
+
+xyz();
