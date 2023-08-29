@@ -1,2 +1,5 @@
-console.log("Hello world");
-console.log("Change");
+const xyz = () => {
+    console.log("Change");
+}
+
+xyz();
