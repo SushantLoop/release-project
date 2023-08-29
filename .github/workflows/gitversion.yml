@@ -5,7 +5,7 @@ on:
     - main
   push:
     branches:
-    - develop
+    - stage
     - main
     - 'release/**'
     - 'hotfix/**'
